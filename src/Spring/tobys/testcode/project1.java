@@ -16,7 +16,7 @@ public class project1 {
 		System.out.println("iss533");
 		
 
-		System.out.println("Hello master");
+		System.out.println("Hello iss54 ->master");
 		
 	}
 
