@@ -2,8 +2,12 @@ package Spring.tobys.testcode;
 
 public class project1 {
 	
+	public static void world() {
+		System.out.println("Hello method");
+	}
 	
-	private static void hello() {
+	
+	public static void hello() {
 		System.out.println("Hello method");
 	}
 	
