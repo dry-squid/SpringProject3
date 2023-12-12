@@ -6,6 +6,9 @@ public class project1 {
 
 		System.out.println("iss533");
 		
+
+		System.out.println("Hello world");
+		
 	}
 
 }
